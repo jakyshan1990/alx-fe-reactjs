@@ -14,9 +14,9 @@ function App() {
 
   return (
     <><WelcomeMessage />
-    <Header/>
-    <MainContent/>
-    <Footer/>
+    <Header />
+    <MainContent />
+    <Footer />
     </>
   )
 }
